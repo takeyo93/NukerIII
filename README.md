@@ -1,6 +1,9 @@
 # 🚀 NukerIII
 > NukerIII is a IP Pinger/DDOS and a IP Lookup for Windows. (in batch file) - Only for educational purposes 🚀🥱
 
+> 🚕 **For use** :
+**Launch the .bat file.**
+
 🏡 - Home
 
 ![home](https://user-images.githubusercontent.com/100771229/179374184-951410d6-d86b-479f-b493-45294edaf378.jpg)
@@ -15,5 +18,4 @@
 
 ![iplookup2](https://user-images.githubusercontent.com/100771229/179374251-9f8afb9b-856b-4d33-8838-9485ebe5f992.jpg)
 
-> 🚀 For use :
-Launch the .bat file.
+
